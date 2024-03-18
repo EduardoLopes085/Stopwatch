@@ -1,0 +1,59 @@
+body .stopwatch{
+    text-align: center;
+}
+
+
+body .stopwatch .timer{
+    color: black;
+}
+
+
+body .stopwatch .play-btn{
+    color: white;
+    background-color: green;
+    border: none;
+    height: 2.5em;
+    width: 5em;
+}
+
+body .stopwatch .pause-btn{
+    color: white;
+    background-color: grey;
+    border: none;
+    height: 2.5em;
+    width: 5em;
+}
+
+body .stopwatch .stop-btn{
+    color: white;
+    background-color: red;
+    border: none;
+    height: 2.5em;
+    width: 5em;
+    
+}
+
+body .stopwatch .play-btn, .pause-btn, .stop-btn:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
